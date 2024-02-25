@@ -5,6 +5,4 @@ pandas
 matplotlib
 yfinance
 pandas-datareader
-requests
-bs4
 datetime
