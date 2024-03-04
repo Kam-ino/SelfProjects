@@ -1,4 +1,4 @@
 **PERSONAL PROJECTS**
 
-1. KMNChatBot (2024-...)
+1. KMNChatBot (Feb 2024 - ...)
 2. 
