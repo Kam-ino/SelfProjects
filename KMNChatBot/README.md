@@ -13,3 +13,6 @@ add more lists of words/phrases in responses and add more logic to check which c
 OR
 
 create an NLP to recognize texting patterns
+
+UPDATE**
+Currently training a GPT model with certain character dialogue to create smooth conversation
