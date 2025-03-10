@@ -1,0 +1,12 @@
+.team-container {
+    background-color: #AAECFF; /* Set background color */
+    padding: 20px;
+    height: 100vh; /* Full height */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.team-images {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Set to 4 columns */
+    gap: 20px; /* Space between grid items */
+}
